@@ -58,7 +58,7 @@ AI-based investment suggestions
 
 Monthly expense tracking 
 
-👩‍💻 Author
+# 👩‍💻 Author
 M. Nivetha
 
 B.Tech Artificial Intelligence and Machine Learning
