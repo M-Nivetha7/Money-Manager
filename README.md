@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=💸+Money+Mentor+–+Smart+Salary+Splitter" />
-</p>
+<h1 align="center" style="color: gold;">
+💸 Money Mentor – Smart Salary Splitter
+</h1>
 
 
 
