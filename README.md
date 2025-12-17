@@ -38,30 +38,24 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Navigate to the project directory
 ```bash
 cd /Users/nivetham/Documents/"MONEY MANAGER"/money-manager
+```
 2️⃣ Verify project structure
-bash
-Copy code
+```bash
 ls src/pages
+```
 3️⃣ Start the development server
-bash
-Copy code
+```bash
 npm run dev
+```
 After running the above command, open the browser and visit the local URL shown in the terminal to view the application.
 
 📊 Future Enhancements
 AI-based investment suggestions
 
-Monthly expense tracking
-
-Export reports as PDF or Excel
-
-Dark mode support
+Monthly expense tracking 
 
 👩‍💻 Author
 M. Nivetha
 B.Tech Artificial Intelligence and Machine Learning
 R.M.D Engineering College
-
-vbnet
-Copy code
 
