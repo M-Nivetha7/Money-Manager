@@ -60,6 +60,8 @@ Monthly expense tracking
 
 👩‍💻 Author
 M. Nivetha
+
 B.Tech Artificial Intelligence and Machine Learning
+
 R.M.D Engineering College
 
