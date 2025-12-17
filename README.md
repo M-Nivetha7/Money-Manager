@@ -1,14 +1,11 @@
-<h1 align="center">
-  <span style="
-    display: inline-block;
-    color: gold;
-    animation: fadeZoom 1.5s ease-in-out;
-  ">
-    💸 Money Mentor – Smart Salary Splitter
-  </span>
+<h1 align="center" style="
+  color: gold;
+  animation: fadeZoom 1.5s ease-in-out;
+">
+  💸 Money Mentor – Smart Salary Splitter
 </h1>
 
-<p align="center">
+<svg width="0" height="0">
   <style>
     @keyframes fadeZoom {
       0% {
@@ -21,7 +18,7 @@
       }
     }
   </style>
-</p>
+</svg>
 
 
 Money Mentor is an interactive React-based personal finance application that helps users log in, enter their salary, and instantly visualize how their income should be split into **Needs, Wants, and Savings** using simple and proven budgeting rules.
