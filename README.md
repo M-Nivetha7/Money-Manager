@@ -1,5 +1,5 @@
 <h1 align="center" style="color: gold;">
-💸 Money Mentor – Smart Salary Splitter
+💸 Money Manager
 </h1>
 
 
