@@ -1,5 +1,5 @@
 <h1 align="center" style="color: gold;">
-💸 Money Manager
+💸 Money Manager 💸
 </h1>
 
 
